@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="red_table" max_length="40" name="x_test123_red_table" type="collection"/>
+    <element label="red_table" max_length="140" name="x_test123_red_table" type="collection"/>
 </database>
